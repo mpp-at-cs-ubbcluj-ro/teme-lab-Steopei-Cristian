@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="example" target="23" />
+      <module name="example.main" target="23" />
+      <module name="example.test" target="23" />
+      <module name="temaLab1" target="23" />
+      <module name="temaLab1.main" target="23" />
+      <module name="temaLab1.test" target="23" />
+      <module name="temaLab2" target="23" />
+      <module name="temaLab2.main" target="23" />
+      <module name="temaLab2.test" target="23" />
+      <module name="temaLab3" target="23" />
+      <module name="temaLab3.main" target="23" />
+      <module name="temaLab3.test" target="23" />
+      <module name="temaLab5" target="23" />
+      <module name="temaLab5.main" target="23" />
+      <module name="temaLab5.test" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
